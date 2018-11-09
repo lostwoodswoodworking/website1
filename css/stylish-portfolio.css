@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Source Sans Pro';
+  font-family: 'Rye', cursive;
 }
 
 .btn-xl {
@@ -39,6 +39,8 @@ h4,
 h5,
 h6 {
   font-weight: 700;
+    font-family: 'Rye', cursive;
+
 }
 
 .text-faded {
